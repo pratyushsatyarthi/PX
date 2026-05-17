@@ -25,9 +25,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "PX PANEL",
+        name: "CO-OWNER | PX PANEL",
         // Activity type number (0 = Playing).
-        type: 5, 
+        type: 4, 
       },
     ],
   },
