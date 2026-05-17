@@ -29,7 +29,7 @@ export const botConfig = {
 ♛ 150+ Trusted Members
 ♛ https://discord.gg/NApxdhEGK",
         // Activity type number (0 = Playing).
-        type: 0, 
+        type: 5, 
       },
     ],
   },
